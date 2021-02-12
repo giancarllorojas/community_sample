@@ -5,7 +5,9 @@ I've worked two weeks on this project. The first week was mainly prototyping the
 You can preview the project at https://wonderful-poincare-86bebc.netlify.app/.
 
 Running locally:
-yarn install
-yarn dev
+```bash
+$ yarn build
+$ yarn dev
+```
 
 Then access it at http://localhost:3000.
